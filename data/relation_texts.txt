@@ -1,0 +1,249 @@
+ICAA rating   rating in the Spanish motion picture content rating system
+influenced by   this person, idea, etc. is informed by that other person, idea, etc., e.g. “Heidegger was influenced by Aristotle”
+writing language   language in which the writer has written their work
+website account on   website that the person or organization has an account on (use with P554) Note: only used with reliable source or if the person or organization disclosed it.
+genetic association   general link between a disease and the causal genetic entity, if the detailed mechanism is unknown/unavailable
+occupation   occupation of a person; see also "field of work" (Property:P101), "position held" (Property:P39)
+different from   item that is different from another item, with which it may be confused
+gens   a clan or group of families from Ancient Rome who shared the same nomen
+takes place in fictional universe   the subject is a work describing a fictional universe, i.e. whose plot occurs in this universe.
+occupant   person or organization occupying property
+family name   part of full name of person
+used by   item or concept that makes use of the subject (use sub-properties when appropriate)
+sport   sport that the subject participates or participated in or is associated with
+MPA film rating   US film classification administered by the Motion Picture Association of America
+Filmiroda rating   rating of a film in the former (2004–2011) Hungarian film rating system
+head coach   on-field manager or head coach of a sports club (not to be confused with a general manager P505, which is not a coaching position) or person
+significant event   significant or notable events associated with the subject
+voice actor   performer of a spoken role in a creative work such as animation, video game, radio drama, or dubbing over [use "character role" (P453) as qualifier] [use "cast member" (P161) for live acting]
+place of burial   location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.
+partially coincident with   object that partially overlaps with the subject in its instances, parts, or members
+field of work   specialization of a person or organization; see P106 for the occupation
+official color   official colors chosen to represent or identify an item
+producer   person(s) who produced the film, musical work, theatrical production, etc. (for film, this does not include executive producers, associate producers, etc.) [for production company, use P272, video games - use P178]
+military rank   military rank achieved by a person (should usually have a "start time" qualifier), or military rank associated with a position
+narrative location   the narrative of the work is set in this location
+spouse   the subject has the object as their spouse (husband, wife, partner, etc.). Use "unmarried partner" (P451) for non-married companions
+cause of death   underlying or immediate cause of death.  Underlying cause (e.g. car accident, stomach cancer) preferred.  Use 'manner of death' (P1196) for broadest category, e.g. natural causes, accident, homicide, suicide
+diplomatic relation   diplomatic relations of the country
+topic's main category   main Wikimedia category
+set in period   historical, contemporary, or future period, year, century or day the work or genre is set in or event featured in the story of the work
+league   league in which team or player plays or has played in
+head of state   official with the highest formal authority in a country/state
+Roman nomen gentilicium   standard part of the name of a Roman, link to items about the Roman gens only
+NATO code for grade   NATO Code for Grades of Military Personnel
+platform   platform for which a work was developed or released, or the specific platform version of a software product
+residence   the place where the person is or has been, resident
+edition or translation of   is an edition or translation of this entity
+executive body   branch of government for the daily administration of the territorial entity
+CNC film rating (Romania)   rating of a movie in the Romanian content rating system
+opposite of   item that is the opposite of this item
+political ideology   political ideology of an organization or person or of a work (such as a newspaper)
+has subsidiary   subsidiary of a company or organization; generally a fully owned separate corporation. Compare with "business division" (P199). Opposite of parent organization (P749).
+narrator   narrator, character or person that tells the story
+aspect ratio (W:H)   image width to height ratio of films, photographs, and other images
+followed by   immediately following item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has been replaced, e.g. political offices, use "replaced by" (P1366)]
+presenter   main role in presenting a radio or television program or a performing arts show
+basic form of government   subject's government
+production company   company that produced this film, audio or performing arts work
+educated at   educational institution attended by subject
+soundtrack release   music release that incorporates music directly recorded from the soundtrack of an audiovisual work
+patron saint   patron saint adopted by the subject
+appointed by   who appointed the person to the office, can be used as a qualifier
+lowest point   point with lowest elevation in the country, region, city or area
+child   subject has object as child. Do not use for stepchildren
+convicted of   crime a person was convicted of
+model item   defines which item is a best practice example of modelling a subject, which is described by the value of this property, usage instructions at Wikidata:Model items
+public holiday   official public holiday that occurs in this place in its honor, usually a non-working day
+author   main creator(s) of a written work (use on works, not humans); use P2093 when Wikidata item is unknown or does not exist
+conflict   battles, wars or other military engagements in which the person or item participated
+location of formation   location where a group or organization was formed
+founded by   founder or co-founder of this organization, religion or place
+participant in   event in which a person or organization was/is a participant; inverse of P710 or P1923
+developer   organization or person that developed the item
+chairperson   presiding member of an organization, group or body
+fabrication method   method, process or technique used to grow, cook, weave, build, assemble, manufacture the item
+contains the administrative territorial entity   (list of) direct subdivisions of an administrative territorial entity
+series spin-off   series' spin-offs
+part of   object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of "has part" (P527, see also "has parts of the class" (P2670)).
+nominated for   award nomination received by a person, organisation or creative work (inspired from "award received" (Property:P166))
+filming location   actual place where this scene/film was shot. For the setting, use "narrative location" (P840)
+office held by head of the organization   position of the head of this item
+relative   family member (qualify with "type of kinship", P1039; for direct family member please use specific property)
+substitute/deputy/replacement of office/officeholder   function that serves as deputy/replacement of this function/office (scope/conditions vary depending on office)
+said to be the same as   this item is said to be the same as that item, but it's uncertain or disputed
+industry   specific industry of company or organization
+affiliation   organization that a person or organization is affiliated with (not necessarily member of or employed by)
+mother   female parent of the subject. For stepmother, use "stepparent" (P3448)
+JMK film rating   rating of a film in the Austrian film rating system
+languages spoken, written or signed   language(s) that a person or a people speaks, writes or signs, including the native language(s)
+licensed to broadcast to   place that a radio/TV station is licensed/required to broadcast to
+dissertation submitted to   institution to whom a thesis or dissertation is submitted
+shares border with   countries or administrative subdivisions, of equal level, that this item borders, either by land or water. A single common point is enough.
+home venue   home stadium or venue of a sports team or applicable performing arts organization
+medical condition   any state relevant to the health of an organism, including diseases and positive conditions
+practiced by   type of agents that study this subject or work in this profession
+award received   award or recognition received by a person, organization or creative work
+work location   location where persons or organisations were actively participating in employment, business or other work
+position held   subject currently or formerly holds the object position or public office
+candidacy in election   election where the subject is a candidate
+participant   person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with "object has role" (P3831). Use P1923 for participants that are teams.
+named after   entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier "applies to name" (P5168) can be used to indicate which one
+Carnegie Classification of Institutions of Higher Education   classification of colleges and universities in the United States
+instance of   that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)
+member of sports team   sports teams or clubs that the subject represents or represented
+honorific prefix   word or expression used before a name, in addressing or referring to a person
+railway traffic side   indicates for a country or a railway line whether rail traffic usually runs on the left or right hand side
+blood type   blood type of the human or animal
+readable file format   file format a program can open and read
+designed by   person(s) or organization which designed the object
+native language   language or languages a person has learned from early childhood
+director / manager   person who manages any kind of group
+headquarters location   city, where an organization's headquarters is or has been situated. Use P276 qualifier for specific building
+country for sport   country a person or a team represents when playing a sport
+composer   person(s) who wrote the music [for lyricist, use "lyrics by" (P676)]
+record label   brand and trademark associated with the marketing of subject music recordings and music videos
+noble title   titles held by the person
+father   male parent of the subject. For stepfather, use "stepparent" (P3448)
+located in the administrative territorial entity   the item is located on the territory of the following administrative entity. Use P276 for specifying locations that are non-administrative places and for items about events. Use P1382 if the item falls only partially into the administrative entity.
+genre   creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic
+programmed in   the programming language(s) in which the software is developed
+has works in the collection   collection that has works of this person or organisation (use archive location P485 for the archives)
+main subject   primary topic of a work (see also P180: depicts)
+EIRIN film rating   category in the Japanese film rating system (add EIRIN number with qualifier P2676)
+official residence   the residence at which heads of government and other senior figures officially reside
+diaspora   diaspora that a cultural group belongs to
+subject has role   role/generic identity of the item ("subject"), also in the context of a statement. For the role of the value of the statement ("object"), use P3831 ("object has role"). For acting roles, use P453 ("character role"). For persons, use P39.
+manner of death   general circumstances of a person's death; e.g. natural causes, accident, suicide, homicide, etc.  Use 'cause of death' (P509) for the specific physiological mechanism, e.g. heart attack, trauma, pneumonia...
+twinned administrative body   twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments
+legal form   legal form of an entity
+student of   person who has taught this person
+theme music   the theme music/song used by the item
+position played on team / speciality   position or specialism of a player on a team
+color   color of subject
+sex or gender   sex or gender identity of human or animal. For human: male, female, non-binary, intersex, transgender female, transgender male, agender. For animal: male organism, female organism. Groups of same gender use subclass of (P279)
+basin country   country that have drainage to/from or border the body of water
+employer   person or organization for which the subject works or worked
+place of death   most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character
+replaced by   other person or item which continues the item by replacing it in its role. Use P156 ("followed by") if the item is not replaced nor identical, but adds to the series (e.g. books in a series).
+mascot   mascot of an organization, e.g. a sports team or university
+film editor   person who works with the raw footage, selecting shots and combining them into sequences to create a finished motion picture
+production designer   person(s) responsible for overall aesthetic of the story of this motion picture, play, video game or similar; responsible for visual concept, producing interior, exterior, location, graphics, etc; deals with many and varied logistic related to this
+lifestyle   typical way of life of an individual, group, or culture
+distribution format   method (or type) of distribution for the subject
+unmarried partner   someone with whom the person is in a relationship without being married. Use "spouse" (P26) for married couples
+killed by   person who killed the subject
+highest point   point with highest elevation in a region, or on the path of a race or route
+driving side   side of the road that vehicles drive on in a given jurisdiction
+after a work by   artist whose work strongly inspired/ was copied in this item
+original film format   film format used to create a work (aliases: film gauge, film size)
+operator   person, profession, or organization that operates the equipment, facility, or service
+has effect   effect of this item
+parliamentary term   term of a parliament or any deliberative assembly
+heritage designation   heritage designation of a cultural or natural site
+screenwriter   person(s) who wrote the script for subject item
+language used   language widely used (spoken or written) in this place or at this event
+place of birth   most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character
+director   director(s) of film, TV-series, stageplay, video game or similar
+winner   winner of a competition or similar event, not to be used for awards (instead use "award received" (P166) on awardee's item, possibly qualified with "for work" (P1686)) or for wars or battles
+inflows   major inflow sources — rivers, aquifers, glacial runoff, etc. Some terms may not be place names, e.g. none
+location   location of the object, structure or event. In the case of an administrative entity as containing item use P131. For statistical entities use P8138. In the case of a geographic entity use P706. Use P7153 for locations associated with the object.
+on focus list of Wikimedia project   property to indicate that an item is of particular interest for a Wikimedia project. This property does not add notability. Items should not be created with this property if they are not notable for Wikidata. See also P6104, P972, P2354.
+product or material produced   material or product produced by a government agency, business, industry, facility, or process
+represented by   person or agency that represents or manages the subject
+has use   main use of the subject (includes current and former usage)
+performer   actor, musician, band or other performer associated with this role or musical work
+movement   literary, artistic, scientific or philosophical movement or scene associated with this person or work. For political ideologies use P1142.
+country of citizenship   the object is a country that recognizes the subject as its citizen
+archives at   the institution holding the subject's archives
+item operated   equipment, installation or service operated by the subject
+member of   organization, club or musical group to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a political position, such as a member of parliament (use P39 for that)
+field of this occupation   field corresponding to this occupation or profession (use only for occupations/professions - for people use Property:P101, for companies use P452)
+parent organization   parent organization of an organization, opposite of subsidiaries (P355)
+Kijkwijzer rating   Dutch media content rating system
+KMRB film rating   rating of a film in the South Korean film/video rating system
+sponsor   organization or individual that sponsors this item
+applies to jurisdiction   the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)
+voice type   person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)
+historical region   geographic area which at some point in time had a cultural, ethnic, linguistic or political basis, regardless of present-day borders
+instrument   musical instrument that a person plays or teaches or used in a music occupation
+notable work   notable scientific, artistic or literary work, or other work of significance among subject's works
+characters   characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)
+academic degree   academic degree that the person holds
+military branch   branch to which this military unit, award, office, or person belongs, e.g. Royal Navy
+is the study of   the object that an academic field studies; distinct from field of work (P101), which is used for human, organization, etc.
+country of origin   country of origin of this item (creative work, food, phrase, product, legislation, etc.)
+parent club   parent club of this team
+allegiance   country (or other power) that the person or group serves
+has part(s) of the class   the subject instance (the subject is not a class) has one or more parts of the object class
+based on   the work(s) used as the basis for subject item
+eye color   color of the irises of a person's eyes
+CNC film rating (France)   category assigned to a film by the Board of Film Classification (CNC) which what audiences may view it in France
+studied by   subject is studied by this science or domain
+time period   time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred
+part of the series   series which contains the subject
+next higher rank   higher rank or level in a ranked hierarchy like sport league, military ranks. If there are several possible, list each one and qualify with "criterion used" (P1013), avoid using ranks and date qualifiers. For sports leagues/taxa, use specific properties instead.
+complies with   the product or work complies with a certain norm or passes a test
+country   sovereign state that this item is in (not to be used for human beings)
+electrical plug type   standard plug type for mains electricity in a country
+follows   immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use "replaces" (P1365)]
+choreographer   person(s) who did the choreography
+capital of   country, state, department, canton or other administrative division of which the municipality is the governmental seat
+located in time zone   time zone for this item
+FSK film rating   permitted audience of a film, according to the German film-rating system (add Prüfnummer with qualifier "P2676")
+cast member   actor in the subject production [use "character role" (P453) and/or "name of the character role" (P4633) as qualifiers] [use "voice actor" (P725) for voice-only role]
+capital   seat of government of a country, province, state or other type of administrative territorial entity
+costume designer   person who designed the costumes for a film, television programme, etc
+owner of   entities owned by the subject
+contains settlement   settlement which an administrative division contains
+has part(s)   part of this subject; inverse property of "part of" (P361). See also "has parts of the class" (P2670).
+health specialty   main specialty that diagnoses, prevent human illness, injury and other physical and mental impairments
+head of government   head of the executive power of this town, city, municipality, state, country, or other governmental body
+replaces   person, state or item replaced. Use "structure replaces" (P1398) for structures. Use "follows" (P155) if the previous item was not replaced or predecessor and successor are identical
+topic's main Wikimedia portal   Wikimedia portal associated with this topic
+executive producer   executive producer of a movie or TV show
+published in   larger work that a given work was published in, like a book, journal or music album
+member of political party   the political party of which a person is or has been a member or otherwise affiliated
+tributary   watercourse that flows into an other one (for lake inflows use P200)
+located in or next to body of water   body of water on or next to which a place is located
+playing hand   hand used to play a racket sport
+organizer   person or institution organizing an event
+located in/on physical feature   located on the specified (geo)physical feature. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552).
+original language of film or TV show   language in which a film or a performance work was originally created. Deprecated for written works and songs; use P407 ("language of work or name") instead.
+NMHH film rating   rating of a film in the Hungarian film rating system
+has immediate cause   nearest, proximate thing that directly resulted in the subject as outcome or effect. Used in conjunction with 'has cause' (i.e. underlying cause) and 'has contributing factor'. See 'Help:Modeling causes'.
+sibling   the subject and the object have at least one common parent (brother, sister, etc. including half-siblings); use "relative" (P1038) for siblings-in-law (brother-in-law, sister-in-law, etc.) and step-siblings (step-brothers, step-sisters, etc.)
+official language   language designated as official by this item
+handedness   handedness of the person
+uses   item or concept used by the subject or in the operation (see also instrument [P1303] and armament [P520])
+camera setup   filmmaking method that the cameras were placed by. Use single-camera (Q2918907) or multiple-camera (Q738160)
+language of work or name   language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name (for persons use "native language" (P103) and "languages spoken, written or signed" (P1412))
+given name   first name or another given name of this person; values used with the property should not link disambiguations nor family names
+sexual orientation   the sexual orientation of the person relative to their declared gender — use ONLY IF they have stated it themselves, unambiguously, or it has been widely agreed upon by historians after their death
+derivative work   new work of art (film, book, software, etc.) derived from major part of this work
+IMDA rating   rating in the Singaporean film and video game rating system
+drug or therapy used for treatment   drug, procedure, or therapy that can be used to treat a medical condition
+emergency phone number   telephone number to contact emergency services
+original broadcaster   network(s) or service(s) that originally broadcast a radio or television program
+sports discipline competed in   discipline an athlete competed in within a sport
+hair color   person's hair color. Use P585 as qualifier if there's more than one value
+category for recipients of this award   link to Wikimedia category for recipients of this award
+owned by   owner of the subject
+director of photography   person responsible for the framing, lighting, and filtration of the subject work
+subclass of   this item is a subclass (subset) of that item; all instances of these items are instances of those items; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform).
+depicts   entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'
+legislative body   legislative body governing this entity; political institution with elected representatives, such as a parliament/legislature or council
+conferred by   person or organization who grants an award, certification, grant, or role
+creator   maker of this creative work or other object (where no more specific property exists)
+described by source   work where this item is described
+facet of   topic of which this item is an aspect, item that offers a broader perspective on the same topic
+ethnic group   subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themselves, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)
+collection   art, museum, archival, or bibliographic collection the subject is part of
+coextensive with   this item has the same boundary as the target item; area associated with (this) entity is identical with the area associated with that entity
+has quality   the entity has an inherent or distinguishing non-material characteristic. use a more-specific property when possible
+continent   continent of which the subject is a part
+office held by head of government   political office that is fulfilled by the head of the government of this item
+office held by head of state   political office that is fulfilled by the head of state of this item
+distributed by   distributor of a creative work; distributor for a record label; news agency; film distributor
+religion or worldview   religion of a person, organization or religious building, or associated with this subject
+stock exchange   exchange on which this company is traded
